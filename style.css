@@ -1,0 +1,56 @@
+li{
+    float: left;
+    list-style-type: none;
+    width: 10%;
+}
+.logoImage{
+    height: 60px;
+    width: 130px;
+    margin-left: 10px;
+}
+.clear{
+    clear: both;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#enable{
+    background-image: url(https://cdn-ghnlj.nitrocdn.com/JBtnaqNLUFzDSKzWbkatZJZXEwtGDlyg/assets/images/optimized/rev-c6da8e9/wp-content/themes/Netstager_Creative_Suite-3.0/images/banner.jpg);
+    text-align: center;
+    padding: 50px 0 ;
+    color: white;
+    height: 500px;
+
+}
+button{
+    background-color: orange;
+    color: white;
+    padding: 10px ;
+    border-radius: 7px;
+    border-color: lightsalmon;
+    margin-left: 5px;
+}
+nav{
+    background-color: white;
+    height: 80px;
+}
+#slogan{
+    font-size: 75px;
+}
+#description{
+    padding: 0 80px;
+    font-size: large;
+}
+.center{
+    text-align: center;
+}
+#watsupId{
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
+ul {
+    margin-left:300px;
+    margin-top: 30px;
+}
